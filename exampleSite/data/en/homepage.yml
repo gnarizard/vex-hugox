@@ -3,9 +3,9 @@ banner:
   enable: true
   title: Richard Booth
   content: I'm a philosopher
-  image: images/watch.png
+  image: images/img_8879.jpeg
   button:
-    enable: true
+    enable: false
     label: Browse All Products
     link: products
 features:
