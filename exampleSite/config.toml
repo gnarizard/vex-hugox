@@ -1,5 +1,5 @@
 baseurl = "http://demo.themefisher.com/vex-hugo/"
-disableLanguages = ["French"]
+disableLanguages = ["Fr"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
@@ -17,33 +17,13 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "blog"
-name = "Blog"
-weight = 1
-[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 2
-[[menu.footer]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
-weight = 3
-[[menu.footer]]
-URL = "privacy-policy"
-name = "Privacy Policy"
-weight = 4
 [[menu.main]]
 URL = "/"
 name = "Home"
 weight = 1
-[[menu.main]]
-URL = "products"
-name = "Products"
-weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
